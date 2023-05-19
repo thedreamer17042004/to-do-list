@@ -1,0 +1,17 @@
+.container {
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+}
+.title {
+    color: red;
+    text-transform: uppercase;
+    font-size: 29px;
+}
+.para1 {
+    /* color: yellow */
+    font-size: 1000px;
+}
+.btn {
+    color:  green;
+}
